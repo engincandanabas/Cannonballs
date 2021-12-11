@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'Block'
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissiveStrengh: 0
+    - _FogEnd: 0
+    - _FogStart: -5
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Glow: 1.19
+    - _GradientStrength: 1
+    - _Metallic: 0
+    - _Middle: 1
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Outline: 0.03
+    - _Parallax: 0.02
+    - _Scale: 1
+    - _Shininess: 0.078125
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _yPosHigh: 2
+    - _yPosLow: -2
+    m_Colors:
+    - _BottomColor: {r: 0.2283737, g: 0.4484787, b: 0.9705882, a: 1}
+    - _Color: {r: 0.9558824, g: 0.4638841, b: 0.4638841, a: 1}
+    - _Color2: {r: 0.9411765, g: 0.6345782, b: 0.4359862, a: 1}
+    - _ColorBot: {r: 0.3005515, g: 0.8014706, b: 0.4905553, a: 1}
+    - _ColorHigh: {r: 0.9632353, g: 0.439122, b: 0.439122, a: 1}
+    - _ColorLow: {r: 0.3602941, g: 0.2384299, b: 0.2384299, a: 1}
+    - _ColorMid: {r: 0.3088235, g: 0.09764273, b: 0.09764273, a: 1}
+    - _ColorTop: {r: 0.4632353, g: 0, b: 0, a: 1}
+    - _ColorX: {r: 0.7867647, g: 0.5785035, b: 0.5785035, a: 1}
+    - _ColorY: {r: 0, g: 0.08382346, b: 0.6397059, a: 1}
+    - _EmisColor: {r: 0.2, g: 0.2, b: 0.2, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutlineColor: {r: 1, g: 1, b: 1, a: 0.984}
+    - _TopColor: {r: 1, g: 0.4338235, b: 0.4338235, a: 1}
